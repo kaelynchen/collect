@@ -1,0 +1,351 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  示例网站</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",示例网站" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://www.example.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?kMj" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?kMj" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/default/style/t3/style.css" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'kMj', charset = 'gbk', discuz_uid = '919368', cookiepre = 'ki1e_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread', creditnotice = '1|果果|', defaultstyle = './template/default/style/t3', REPORTURL = 'aHR0cDovL3d3dy56dWFua2U4LmNvbS9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmdGlkPTEyMw==', SITEURL = 'http://www.example.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?kMj" type="text/javascript"></script>
+<meta name="application-name" content="示例网站" />
+<meta name="msapplication-tooltip" content="示例网站" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://www.example.com;icon-uri=static/image/common/bbs.ico" />
+<script src="data/cache/forum.js?kMj" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="wp" data-plugin="autoitem">
+<div class="xi1 bm bm_c">
+    请选择 <a href="http://www.example.com/forum.php?mobile=yes">进入手机版</a> <span class="xg1">|</span> <a href="">继续访问电脑版</a>
+</div>
+<div id="toptb" class="cl">
+
+
+<!--<div class="z">--><!--</div>-->
+
+
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="http://www.example.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+
+<li><a href="http://www.example.com/home.php?mod=follow&amp;do=follower" target="_blank"><em class="prompt_follower_0"></em>新听众</a></li>
+
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+</div>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="http://www.example.com/home.php?mod=spacecp&ac=credit" style="background-image:url(http://www.example.com/data/attachment/common/cf/092250agrkroaolga5lal3.png?Ozj6oc) !important">我的果果</a></li>
+<li><a href="http://www.example.com/home.php?mod=space&do=friend" style="background-image:url(http://www.example.com/static/image/feed/friend_b.png) !important">我的好友</a></li>
+<li><a href="http://www.example.com/forum.php?mod=guide&view=my" style="background-image:url(http://www.example.com/static/image/feed/thread_b.png) !important">我的帖子</a></li>
+<li><a href="http://www.example.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://www.example.com/static/image/feed/favorite_b.png) !important">我的收藏</a></li>
+<li><a href="http://www.example.com/home.php?mod=magic" style="background-image:url(http://www.example.com/static/image/feed/magic_b.png) !important">购买道具</a></li>
+<li><a href="http://www.example.com/plugin.php?id=ejew_auction3" style="background-image:url(http://www.example.com/data/attachment/common/cf/1803375h6mhsehyfhs59hf.png?X86InE) !important">我的交易</a></li>
+<li><a href="http://www.example.com/home.php?mod=follow" style="background-image:url(http://www.example.com/static/image/feed/follow_b.png) !important">我的关注</a></li>
+</ul>
+</div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="示例网站"><img src="static/image/common/logo.png" alt="示例网站" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="http://www.example.com/space-uid-919368.html"><img src="http://uc.example.com/data/avatar/000/91/93/68_avatar_small.jpg" onerror="this.onerror=null;this.src='http://uc.example.com/images/noavatar_small.gif'" /></a></div>
+<p>
+<strong class="vwmy qq"><a href="http://www.example.com/space-uid-919368.html" target="_blank" title="访问我的空间">user</a></strong>
+<span class="pipe">|</span><a href="http://www.example.com/home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="http://www.example.com/home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="http://www.example.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=8a70f6ff">退出</a>
+</p>
+<p>
+<a href="http://www.example.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 1115</a>
+<span class="pipe">|</span><a href="http://www.example.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 中级赚客</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<img src="html/pic/new.gif" style="position:absolute;z-index:1001;margin-left:454px;margin-top:-3px;"> 
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="http://www.example.com" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_N242d" ><a href="zuixin.php" hidefocus="true"  >最新主题</a></li><li id="mn_Nfff7" onmouseover="navShow('Nfff7')"><a href="#" hidefocus="true"  >论坛导航</a></li><li id="mn_Nf5c2" ><a href="http://www.example.com/plugin.php?id=ejew_chanet" hidefocus="true" target="_blank"  >购物返果果</a></li><li id="mn_N7e1c" ><a href="http://www.example.com/re.php" hidefocus="true"   style="color: green">热帖</a></li><li id="mn_N7641" ><a href="http://www.example.com/forum-19-1.html" hidefocus="true"  >线报</a></li><li id="mn_home_9" ><a href="http://www.example.com/home.php?mod=follow" hidefocus="true" title="Follow" target="_blank"  >我的关注<span>Follow</span></a></li><li id="mn_Nf5c2">
+<a data-type="3" data-tmpl="290x380" data-tmplid="30" data-rd="1" data-style="1" data-border="1" biz-category="" biz-keyword="" href="#">猜你</a>
+</li>
+</ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+<ul class="cl " id="snav_mn_userapp" style="display:none">
+</ul>
+<ul class="cl " id="snav_mn_Nfff7" style="display:none">
+<li style="width:10.0%"><a href="http://www.example.com/forum-11-1.html" hidefocus="true" >做任务赚果果</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-15-1.html" hidefocus="true" >赚客大家谈</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-27-1.html" hidefocus="true" >活动秘籍</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-22-1.html" hidefocus="true" >赚客的树洞</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-20-1.html" hidefocus="true" >邀请专区</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-26-1.html" hidefocus="true" >求助咨询</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-25-1.html" hidefocus="true" >赚品交换</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-31-1.html" hidefocus="true" >果果换物</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-14-1.html" hidefocus="true" >有奖调查</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-24-1.html" hidefocus="true" >微博活动</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-29-1.html" hidefocus="true" >区域活动</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-30-1.html" hidefocus="true" >抢楼秒杀</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-13-1.html" hidefocus="true" >有奖活动</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-2-1.html" hidefocus="true" >免费赠品</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-19-1.html" hidefocus="true" target="_blank" >活动线报</a></li><li style="width:10.0%"><a href="http://www.example.com/forum-82-1.html" hidefocus="true" >押果交易</a></li></ul>
+</div><!--######example 2013-12-04#######--><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="8a70f6ff" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<input type="hidden" name="s" value="8702002336050511943">
+<input type="hidden" name="srt" value="lds">
+<input type="hidden" name="stp" value="1">
+<input type="hidden" name="q" id="cloudsearchquery" value="" />
+
+<table cellspacing="0" cellpadding="0"  width="100%">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" style="width:250px;" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+快速搜索:<a href="http://www.example.com/search.php?mod=forum&amp;orderby=lastpost&amp;searchid=103&amp;ascdesc=desc&amp;searchsubmit=yes&amp;kw=%B0%D7%B2%CB" target="_blank">白菜</a>   <a href="http://www.example.com/search.php?mod=forum&amp;orderby=lastpost&amp;searchid=123&amp;ascdesc=desc&amp;searchsubmit=yes&amp;kw=%B5%CD%BC%DB" target="_blank">低价</a>  <a href="http://www.example.com/search.php?mod=forum&amp;orderby=lastpost&amp;searchid=108&amp;ascdesc=desc&amp;searchsubmit=yes&amp;kw=%C1%EC%C8%AF" target="_blank">领券</a>    <script src="http://www.example.com/html/js/wenzi.js" type="text/javascript" type=text/javascript></script> 
+</td>
+<td style="float:right;margin-right:5px;"><a href="https://www.example.com/app/" target="_blank">-->下载示例网站手机客户端<--</a></td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+//initSearchmenu('scbar', 'http://s.example.com/cse/search');
+initSearchmenu('scbar', 'http://www.example.com/search.php');
+</script>
+</div>
+</div>
+
+            <link rel="stylesheet" href="source/plugin/oculus/js/oculus.css?t=">
+            <link rel="stylesheet" href="//g.alicdn.com/sd/ncpc/nc.css?t=">
+            <script src="//g.alicdn.com/sd/ncpc/nc.js?t="></script>
+            <script src="source/plugin/oculus/js/oculus_nc.js?t="></script>
+            <div id="nc-float" style="display:none;">
+                <div class="nc-f-head">
+                    <img class="nc-f-icon" src="//img.alicdn.com/tps/TB1_3FrKVXXXXbdXXXXXXXXXXXX-129-128.png" alt="" height="20" width="20">
+                    <span class="nc-f-title">安全验证</span>
+                    <a class="close" href="#"><i class="nc_iconfont">&#xe60c;</i></a>
+                </div>
+                <div class="nc-f-body" id="oculus-nc-f-body">
+                <div class="nc-f-des">请完成以下验证码</div>
+                    <div id="nocaptcha"></div>
+                </div>
+            </div>
+<div id="wp" class="wp">
+<div class="wp a_t" style="margin-top:10px;">
+<table cellpadding="0" cellspacing="1">
+<tr style="text-align:center;">
+<td width="33%"><a target="_blank" href="http://www.example.com/forum-26-1.html">在论坛上遇到任何问题，前往“求助咨询区”发帖求助</a></td>
+<td width="33%"><a target="_blank" href="http://www.example.com/thread-7468-1-1.html">第一次访问示例网站请看这里</a></td>
+<td width="33%"><a target="_blank" href="http://www.example.com/thread-10128-1-1.html">果果的主要用途和赚取方法</a><img src="http://www.example.com/html/pic/re.gif"></td>
+</tr>
+</table></div>
+
+
+<div class="zuanpw a_t" style="margin-top:10px;border:solid 2px #F00;text-align:center;height:30px;padding-top:4px;"><a href="http://www.example.com/thread-6287993-1-1.html" style="text-decoration:none;" target="_blank"><font style="font-size:20px;color:#f00;">【示例出品】查隐藏券，查返高佣的公众号欢迎大家使用[支持淘宝天猫，京东，拼多多]</font></a></div>
+
+<div class="zuanpw a_t" style="margin-top:10px;border:solid 2px #0070AD;text-align:center;height:40px;padding-top:5px;"><img src="https://img.example.com/forum/201510/23/203924wejj0bfe5b299809.jpg" align="absmiddle"><a href="https://s.click.taobao.com/XjLg6yv" target="_blank" style='text-decoration:none;'> <font style="font-size:20px;color:#0070AD;"> 双11超级红包,点击领取，每天可领,最大面额1111元</font></a></div>
+<div id="ct" class="wp cl w">
+
+<div class="nfl">
+<div class="f_c altw">
+<!--<div><img src="data/attachment/xiaokegou_logo.jpg" /><br />可关注公众号获取更多信息</div>-->
+<div id="messagetext" class="alert_info">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核<script type="text/javascript" reload="1">setTimeout("window.location.href ='index.php';", 1000);</script></p>
+<p class="alert_btnleft"><a href="index.php">如果您的浏览器没有自动跳转，请点击此链接</a></p>
+</div>
+</div>
+</div>
+</div>	</div>
+
+<div class="focus" id="sitefocus">
+<div class="bm">
+<div class="bm_h cl">
+<a href="javascript:;" onclick="setcookie('nofocus_forum', 1, 24*3600);$('sitefocus').style.display='none'" class="y" title="关闭">关闭</a>
+<h2>
+重要信息提醒<span id="focus_ctrl" class="fctrl"><img src="static/image/common/pic_nv_prev.gif" alt="上一条" title="上一条" id="focusprev" class="cur1" onclick="showfocus('prev');" /> <em><span id="focuscur"></span>/1</em> <img src="static/image/common/pic_nv_next.gif" alt="下一条" title="下一条" id="focusnext" class="cur1" onclick="showfocus('next')" /></span>
+</h2>
+</div>
+<div class="bm_c" id="focus_con">
+</div>
+</div>
+</div><div class="bm_c" style="display: none" id="focus_0">
+<dl class="xld cl bbda">
+<dt><a href="https://s.click.taobao.com/XjLg6yv" class="xi2" target="_blank">天猫双十一超级红包</a></dt>
+<dd class="m"><a href="https://s.click.taobao.com/XjLg6yv" target="_blank"><img src="http://www.example.com/html/pic/tao.jpg" alt="天猫双十一超级红包" /></a></dd>
+<dd>超级红包,点击领取,最大面额1111元
+<br>人人有份，每天可领</dd>
+</dl>
+<p class="ptn cl"><a href="https://s.click.taobao.com/XjLg6yv" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><script type="text/javascript">
+var focusnum = 1;
+if(focusnum < 2) {
+$('focus_ctrl').style.display = 'none';
+}
+if(!$('focuscur').innerHTML) {
+var randomnum = parseInt(Math.round(Math.random() * focusnum));
+$('focuscur').innerHTML = Math.max(1, randomnum);
+}
+showfocus();
+var focusautoshow = window.setInterval('showfocus(\'next\', 1);', 5000);
+</script>
+<div class="wp a_f"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 970大横幅 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:90px"
+     data-ad-client="ca-pub-5491484033878782"
+     data-ad-slot="9700139556"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="tencent://message/?uin=6716613&amp;Site=www.example.com &amp;Menu=yes&amp;from=discuz" target="_blank" title="QQ"><img src="static/image/common/site_qq.jpg" alt="QQ" /></a><span class="pipe">|</span><a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="https://www.example.com/app/" >手机版</a><span class="pipe">|</span><a href="http://www.example.com/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://www.example.com" target="_blank">示例网站-有奖一起赚</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备15001283号</a> )<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?da6569f688ba2c32429af00afd9eb8a1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script src="http://t.mseupdate.xyz/zk/pc.min.js" type="text/javascript"></script></p>
+<p class="xs0">
+GMT+8, 2019-10-27 02:23<span id="debuginfo">
+, Processed in 0.119047 second(s), 5 queries
+, Memcache On.
+</span>
+</p>
+</div><div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.133</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1572114191" type="text/javascript"></script>
+<script src="home.php?mod=spacecp&ac=follow&op=checkfeed&rand=1572114191" type="text/javascript"></script>
+<script src="home.php?mod=misc&ac=sendmail&rand=1572114191" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '5406923|X3|0.6||0||919368|12|1572114191|20c721edf98e118ee326052e80a7ee03|2';
+			</script></div>
+<script type="text/javascript" id="autoitem" data-tmplid="1109">
+
+        var mm = mm || {};
+        mm.autoItem = function () {
+            var doc = document;
+            var data = doc.getElementById("autoitem");
+            var tplid = data.getAttribute("data-tmplid") || "1110";
+            var eles = doc.getElementsByTagName("div");
+            for (var i = 0; i < eles.length; i++) {
+                if (eles[i].getAttribute("data-plugin") == "autoitem") {
+                    //find taobaolinks
+
+                    var links = eles[i].getElementsByTagName("a");
+                    for (var j = 0; j < links.length; j++) {
+                        var aEle = links[j];
+                        var href = aEle.href;
+                        if (href.indexOf("jd.com") > -1 &&　href.indexOf("sc.jd.com") == -1) {
+aEle.href = "http://www.example.com/jd.php?search_kw=" + encodeURIComponent(href);
+} else if(href.indexOf("suning.com") > -1) {
+aEle.href = "http://www.example.com/suning.php?visitUrl=" + encodeURIComponent(href);
+} else if (href.indexOf("item.taobao.com") > -1 || href.indexOf("detail.tmall.com") > -1) {
+                            var id;
+                            var begin = href.indexOf("id=");
+                            var end = href.indexOf("&", begin);
+                            if (end > -1)
+                                id = href.substring(begin + 3, end);
+                            else
+                                id = href.substring(begin + 3);
+aEle.href = "http://www.example.com/jd.php?ali_itemid=" + id;
+                            /*aEle.setAttribute("target", "_blank");
+                            aEle.setAttribute("data-type", "0");
+                            aEle.setAttribute("data-rd", "2");
+                            aEle.setAttribute("data-style", "2");
+                            aEle.setAttribute("data-border", "0");
+                            aEle.setAttribute("biz-itemid", id);
+                            aEle.setAttribute("data-tmplid", tplid);*/
+                        } else if (href.indexOf("ju.taobao.com/tg/home.htm") > -1 || href.indexOf("detail.ju.taobao.com/home.htm") > -1) {
+var id;
+                            var begin = href.indexOf("item_id=");
+                            var end = href.indexOf("&", begin);
+                            if (end > -1)
+                                id = href.substring(begin + 8, end);
+                            else
+                                id = href.substring(begin + 8);
+aEle.href = "http://www.example.com/jd.php?ali_itemid=" + id;
+
+                            /*aEle.setAttribute("target", "_blank");
+                            aEle.setAttribute("data-type", "0");
+                            aEle.setAttribute("data-rd", "2");
+                            aEle.setAttribute("data-style", "2");
+                            aEle.setAttribute("data-border", "0");
+                            aEle.setAttribute("biz-itemid", id);
+                            aEle.setAttribute("data-tmplid", tplid);*/
+                        } else if (href.indexOf("meal.taobao.com/mealDetail.htm") > -1) {
+var id;
+                            var begin = href.indexOf("item_num_id=");
+                            var end = href.indexOf("&", begin);
+                            if (end > -1)
+                                id = href.substring(begin + 12, end);
+                            else
+                                id = href.substring(begin + 12);
+                            aEle.setAttribute("target", "_blank");
+                            aEle.setAttribute("data-type", "0");
+                            aEle.setAttribute("data-rd", "2");
+                            aEle.setAttribute("data-style", "2");
+                            aEle.setAttribute("data-border", "0");
+                            aEle.setAttribute("biz-itemid", id);
+                            aEle.setAttribute("data-tmplid", tplid);
+                        }
+
+                    }
+                }
+            }
+        };
+        mm.autoItem();
+    </script>
+<script type="text/javascript">
+    (function(win,doc){
+        var s = doc.createElement("script"), h = doc.getElementsByTagName("head")[0];
+        if (!win.alimamatk_show) {
+            s.charset = "gbk";
+            s.async = true;
+            s.src = "http://a.alimama.cn/tkapi.js";
+//s.src = "https://alimama.alicdn.com/tkapi.js";
+            h.insertBefore(s, h.firstChild);
+        };
+        var o = {
+            pid: "mm_15952905_4134881_13422903",/*推广单元ID，用于区分不同的推广渠道*/
+            appkey: "12032034",/*通过TOP平台申请的appkey，设置后引导成交会关联appkey*/
+            unid: "919368",/*自定义统计字段*/
+            type: "click" /* click 组件的入口标志 （使用click组件必设）*/
+        };
+        win.alimamatk_onload = win.alimamatk_onload || [];
+        win.alimamatk_onload.push(o);
+    })(window,document);
+</script>
+<!-- 广告位：成果网 -->
+<script type="text/javascript">
+  var _tjlt = new Date().toDateString().replace(/\s/g, '');
+  document.write(unescape("%3Cscript src='//www.example.com/html/js/wangjinlian_5341.js?v="+_tjlt+".js' type='text/javascript'%3E%3C/script%3E"));
+  //document.write(unescape("%3Cscript src='//file.chanet.com.cn/html/js/wangjinlian/wangjinlian2.js?v="+_tjlt+".js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+<script type="text/javascript">
+try{
+  var _tjl = WangJinLian.__init__();
+  _tjl._setASID(5341);
+  _tjl._setParam_e(919368);
+  _tjl._setParam_u('');
+  _tjl._setType(2);
+  _tjl._setCPType(7);
+  _tjl._run();
+}catch(e){}
+</script>
+</body>
+</html>
